@@ -1,4 +1,4 @@
-# Express Resource
+# Express Resource Middleware
 
   express-resource-middleware provides resourceful routing to express.
   It is based on express-resource, adding route middleware support in a backward compatible manner.
